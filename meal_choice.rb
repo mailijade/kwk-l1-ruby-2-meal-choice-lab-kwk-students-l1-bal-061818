@@ -12,6 +12,6 @@ end
 
 
 puts breakfast("pancakes")
-puts lunch("grilled cheese")
-puts dinner("salmon")
+puts lunch(" samitch")
+puts dinner("pizza")
 puts dinner
